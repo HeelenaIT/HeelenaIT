@@ -1,4 +1,4 @@
-## __Hi there, welcome on my profile!__👋
+## _Hi there, welcome on my profile!_👋
 
 I'm Elena, I'm from Cagliari,a beautiful city by the sea in Sardinia.🌊🌊🌊
 
