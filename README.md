@@ -7,7 +7,7 @@ Programming languages studied: HTML, CSS, javascript, java. (more is coming)
 
 I’m currently improving my java knowledge. 🤓
 
-## I am looking for an opportunity to start a career in IT ❣
+# I am looking for an opportunity to start a career in IT ❣
 
 📫 How to reach me:https://www.linkedin.com/in/elena-georgiana-nyegrea-79a324259/
 
