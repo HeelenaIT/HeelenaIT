@@ -1,11 +1,10 @@
-## *Hi there, welcome on my profile!👋*
+## *Hi there, welcome on my profile!👋* ![fa44e20e-f0c5-472d-91f8-a840b56d944bb](https://github.com/HeelenaIT/HeelenaIT/assets/112347948/af929859-3a41-4489-8917-61a0e6915d97)
 
 *I'm Elena, I'm from Cagliari,a beautiful city by the sea in Sardinia.🌊🌊🌊*
 
 
 *I'm passionate about technology and excited to enter an environment where you can constantly learn new skills, to be part of human progress.🤩*
 
-![fa44e20e-f0c5-472d-91f8-a840b56d944bb](https://github.com/HeelenaIT/HeelenaIT/assets/112347948/ed4d4640-d734-489c-970f-cc8682321c84)
 *Programming languages studied: HTML, CSS, javascript, java. (more is coming)*
 
 *I’m currently improving my java knowledge.🤓*
