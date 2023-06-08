@@ -12,7 +12,7 @@
 
 # *I am looking for an opportunity to start a career in IT ❣*
 
-📫 How to reach me:check out my Linkedin in Bio
+*📫 How to reach me:check out my Linkedin in Bio.😊*
 
 <!--
 **HeelenaIT/HeelenaIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
