@@ -1,7 +1,7 @@
 ### Hi there, welcome on my profile! 👋
 I'm Elena, I'm from Cagliari,a beautiful city by the sea in sardinia.🌊🌊🌊
 
-I'm passionate about technology and excited to enter an environment where you can constantly learn new skills, to be part of human progress 🤩
+I'm passionate about technology and excited to enter an environment where you can constantly learn new skills, to be part of human progress.🤩
 
 Programming languages studied: HTML, CSS, javascript, java. (more is coming) 
 
