@@ -1,18 +1,5 @@
-                             
- ## *Hi there, welcome to my profile!👋* 
 
-*I'm Elena, I'm from Cagliari,a beautiful city by the sea in Sardinia.🌊🌊🌊*
-
-
-*I'm passionate about technology and excited to enter an environment where you can constantly learn new skills, to be part of human progress.🤩*
-
-*Programming languages studied: HTML, CSS, javascript, java. (more is coming)*
-
-*I’m currently improving my java knowledge.🤓*
-
-# *I am looking for an opportunity to start a career in IT ❣*
-
-*📫 How to reach me: check out my Linkedin in Bio.😊*
+![github](https://github.com/HeelenaIT/HeelenaIT/assets/112347948/fac2a725-92e5-4257-b35f-53bb1e9440cb)
 
 <!--
 **HeelenaIT/HeelenaIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
