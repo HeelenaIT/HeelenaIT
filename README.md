@@ -5,7 +5,7 @@ I'm passionate about technology and excited to enter an environment where you ca
 
 Programming languages studied: HTML, CSS, javascript, java. (more is coming) 
 
-I’m currently improving my java knowledge 🤓
+I’m currently improving my java knowledge. 🤓
 
 I am looking for an opportunity to start a career in IT ❣
 
