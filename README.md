@@ -1,4 +1,6 @@
-## *Hi there, welcome on my profile!👋* ![fa44e20e-f0c5-472d-91f8-a840b56d944bb](https://github.com/HeelenaIT/HeelenaIT/assets/112347948/af929859-3a41-4489-8917-61a0e6915d97)
+                               ![fa44e20e-f0c5-472d-91f8-a840b56d944bb](https://github.com/HeelenaIT/HeelenaIT/assets/112347948/af929859-3a41-4489-8917-61a0e6915d97)
+                               
+## *Hi there, welcome on my profile!👋* 
 
 *I'm Elena, I'm from Cagliari,a beautiful city by the sea in Sardinia.🌊🌊🌊*
 
